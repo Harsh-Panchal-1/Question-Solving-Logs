@@ -1,3 +1,6 @@
+# Problem: 71A. Way Too Long Words
+# Link: https://codeforces.com/problemset/problem/71/A
+
 wordCount = int(input())
 words = []
 for i in range(wordCount):
