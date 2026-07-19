@@ -15,6 +15,7 @@ class Main {
         solvable++;
       }
     }
+    scan.close();
     System.out.println(solvable);
   }
 }

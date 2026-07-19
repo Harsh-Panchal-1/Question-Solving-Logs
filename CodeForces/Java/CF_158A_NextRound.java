@@ -13,6 +13,7 @@ class Main {
       int score = scan.nextInt();
       playerScore[i] = score;
     }
+    scan.close();
     for (int i : playerScore) {
       if (playerScore[k-1] <= i && i>0){
         nextRound++;
