@@ -1,4 +1,4 @@
-// Problem: 158A. Team
+// Problem: 158A. Next Round
 // Link: https://codeforces.com/problemset/problem/158/A
 
 import java.util.Scanner;
