@@ -1,3 +1,6 @@
+// Problem: 112A. Petya and Strings
+// Link: https://codeforces.com/problemset/problem/112/A
+
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {

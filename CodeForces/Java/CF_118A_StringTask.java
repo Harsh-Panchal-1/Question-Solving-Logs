@@ -1,3 +1,6 @@
+// Problem: 118A. String Task
+// Link: https://codeforces.com/problemset/problem/118/A
+
 import java.util.Scanner;
 
 class Main {
