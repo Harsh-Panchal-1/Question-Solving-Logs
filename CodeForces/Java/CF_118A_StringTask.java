@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class CF_118A_StringTask {
+class Main {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String word = scan.nextLine().toLowerCase();
-
+    scan.close();
     // Convert the string to an array of strings to loop through it
     for (String i : "aeiouy".split("")) {
       word = word.replace(i, "");
