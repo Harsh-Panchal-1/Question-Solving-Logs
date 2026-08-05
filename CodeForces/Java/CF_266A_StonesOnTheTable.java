@@ -14,6 +14,7 @@ class Main {
         count++;
       }
     }
+    scan.close();
     System.out.println(count);
   }
 }

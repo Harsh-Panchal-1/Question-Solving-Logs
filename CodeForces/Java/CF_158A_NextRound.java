@@ -1,5 +1,6 @@
 // Problem: 158A. Next Round
-// Link: https://codeforces.com/problemset/problem/158/A
+// Link: https://codeforces.
+// com/problemset/problem/158/A
 
 import java.util.Scanner;
 class Main {
