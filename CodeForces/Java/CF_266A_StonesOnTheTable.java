@@ -6,7 +6,6 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
-    int stones = scan.nextInt();
     String stoneString = scan.next();
     int count =0;
     for (int i = 0; i < (stoneString.length()-1); i++) {
